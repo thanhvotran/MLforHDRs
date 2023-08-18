@@ -1,5 +1,5 @@
 # MLforHDRs
-This is an introduction for HDR students unfamiliar with Machine Learning and its common application.
+This is an introduction for HDR students unfamiliar with Machine Learning and its common application (with curated content for beginners)
 
 # Outline of this document.
 
