@@ -2,8 +2,7 @@
 This is an introduction for HDR students unfamiliar with Machine Learning and its common application (with curated content for beginners)
 
 ![Alt text](https://mitsloan.mit.edu/sites/default/files/2021-04/machine-learning-infographic_2.jpg)
-
-https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained
+[1]
 
 
 # Outline of this document.
@@ -14,6 +13,6 @@ https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained
 # Reference 
 (This was constructed based on the resources below)
 
-
+[1] https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained
 https://github.com/jakevdp/PythonDataScienceHandbook
 
