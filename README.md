@@ -1,7 +1,8 @@
 # MLforHDRs
 This is an introduction for HDR students unfamiliar with Machine Learning and its common application (with curated content for beginners)
 
-![Uploading image.png…]()
+![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg "a title"](https://mitsloan.mit.edu/sites/default/files/2021-04/machine-learning-infographic_2.jpg))
+
 
 https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained
 
